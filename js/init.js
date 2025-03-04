@@ -1,5 +1,5 @@
 import { day, month, year } from "./elements.js";
-import update from "./updater.js";
+import { update } from "./updater.js";
 
 function init() {
   // Initialize input default values
@@ -18,3 +18,4 @@ function init() {
 }
 
 // ???
+export default init();
