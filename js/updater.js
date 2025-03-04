@@ -31,3 +31,4 @@ function update() {
 }
 
 // ???
+export { update };

@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "spa-012-modules-exports-cihanunall",
+  "version": "1.0.0",
+  "description": "Most of the code for this website is complete, however it is missing the module exports.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cihan",
+  "license": "ISC"
+}
